@@ -4,7 +4,9 @@ Este repositório é para iniciantes que consegue tem uma fácil leitura de cód
 # Entrada  de dados.
 -Nome, idade, peso, altura, números de campeonatos participados.
 
-#Ficha de Pagamento da inscrição
+#Ficha de Pagamento da inscrição 
+-Valor , desconto..
+
 
 #INICIO DA FICHA
 
